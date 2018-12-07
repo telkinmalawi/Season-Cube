@@ -18,9 +18,11 @@ class Seed {
     Seeds.scale(Scale);
   }
   void display() {
+    pushMatrix();
     translate(0, 0, Zpos);
     rotateY(radians(90));
     shape(Seeds, Xpos, Ypos);
+    popMatrix();
   }
   void grow() {
     Zpos+=10;
