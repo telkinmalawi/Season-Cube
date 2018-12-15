@@ -20,6 +20,8 @@ Tevin Fairclough is a jamaican born artist based in te City of New York. He is a
 
 <h1>Processing:</h1>
 I basically created the individual sides the cube first and joins to together as diffrent side or "textures" of the cube. I increased the Zposition to bring the cube closer and closer to me until I was on the inside. Then I added small little objects that were respective of their seasons. These objects display with the help of if functions. 
+
+<h1>Screenshots</h1>
 <img src="https://github.com/telkinmalawi/Season-Cube/blob/master/Screen%20Shot%202018-12-15%20at%2010.59.27%20AM.png" >
 <img src="https://github.com/telkinmalawi/Season-Cube/blob/master/Screen%20Shot%202018-12-15%20at%2011.01.17%20AM.png" >
 <img src="https://github.com/telkinmalawi/Season-Cube/blob/master/Screen%20Shot%202018-12-15%20at%2011.02.01%20AM.png">
